@@ -20,6 +20,7 @@ const Navbar = () => {
             </ul>
           </div>
         </div>
+        <input type="text"/>
       </nav>
     );
 };
